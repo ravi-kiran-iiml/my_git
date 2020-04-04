@@ -1,0 +1,12 @@
+ELEMENTARY ARITHMETIC OPERATORS:
+Here we will have a look at the basic arithmetic operations like addition, subtraction, multiplication, division, integer division, modulo (remainder) operator and exponent operator.
+a = 2 # assign 2 to variable a
+b = 3 # asssign 3 to variable b
+
+print(a + b) # add operator 	5
+print(a - b) # subtract operator	-1
+print(a * b) # multiply operator	6
+print(a / b) # division operator	0.6666666666666666
+print(a // b) # greatest integer division operator	0
+print(a % b) # modulo operator OR remainder operator	2
+print(a ** b) # exponent operator	8
